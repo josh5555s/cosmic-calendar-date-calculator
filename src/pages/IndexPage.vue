@@ -15,7 +15,7 @@
         filled
       >
       </q-select>
-      <pre>{{ cosmicDate }}</pre>
+      <div style="padding:10px;"> {{ cosmicDate }}</div>
     </q-card>
   </q-page>
 </template>
