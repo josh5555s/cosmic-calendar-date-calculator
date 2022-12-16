@@ -1,8 +1,8 @@
 {
-  "name": "quasar-project",
+  "name": "cosmic calculator",
   "version": "0.0.1",
-  "description": "A Quasar Project",
-  "productName": "Quasar App",
+  "description": "A calulator that finds the relative dates in the Cosmic Calendar, given how many years ago.",
+  "productName": "Cosmic Calendar Date Calculator",
   "author": "josh5555s <joshshindler@gmail.com>",
   "private": true,
   "scripts": {
