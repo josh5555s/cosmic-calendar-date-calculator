@@ -1,5 +1,5 @@
 {
-  "name": "cosmic calculator",
+  "name": "cosmic-calculator",
   "version": "0.0.1",
   "description": "A calulator that finds the relative dates in the Cosmic Calendar, given how many years ago.",
   "productName": "Cosmic Calendar Date Calculator",
